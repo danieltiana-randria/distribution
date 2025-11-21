@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
- <span>Verions beta</span>
- <span>PLateforme android</span>
+ <span>Verions beta</span> -
+ <span>Plateforme android</span> -
  <span>LAngue français</span>
 </p>
 
 ---
 
-## 🌟 Aperçu
+## A propos
 
 EDU MADA est une application permettant d’explorer les domaines d’études disponibles à Madagascar, de consulter les universités et centres de formation associés associées, et d’effectuer des recherches intelligentes et rapides.
 
@@ -41,6 +41,7 @@ EDU MADA est une application permettant d’explorer les domaines d’études di
 - Creation du compte pour les universités
 - Publication des enevements ou rentrées ainsi que les postes reliées au domaines
 - Les universités gere leurs propre information, leurs publications
+
 
 
 
