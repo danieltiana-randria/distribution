@@ -30,6 +30,11 @@ EDU MADA est une application permettant d’explorer les domaines d’études di
 - Suggestions automatiques : **universités + domaines**
 -  Recherche rapide et optimisée
 
+### 🔹 Synchronisation locale
+- Utilisation des donneé mobile pour charger les données initiales
+- seulement la liste des universitées et domaines chargés sont enregistré pour voir hors ligne
+
+
 ### 🔹 Administration
 -  Gestion du contenu via un espace d’administration intégré
 
@@ -41,6 +46,7 @@ EDU MADA est une application permettant d’explorer les domaines d’études di
 - Creation du compte pour les universités
 - Publication des enevements ou rentrées ainsi que les postes reliées au domaines
 - Les universités gere leurs propre information, leurs publications
+
 
 
 
