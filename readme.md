@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
- <span>Verions beta</span> -
- <span>Plateforme android</span> -
- <span>LAngue français</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-Beta-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Langue-FR-success?style=for-the-badge">
+</p>
 </p>
 
 ---
@@ -46,6 +48,7 @@ EDU MADA est une application permettant d’explorer les domaines d’études di
 - Creation du compte pour les universités
 - Publication des enevements ou rentrées ainsi que les postes reliées au domaines
 - Les universités gere leurs propre information, leurs publications
+
 
 
 
